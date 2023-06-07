@@ -167,13 +167,13 @@ h6{
     .logo {
         padding-left: 25px;
         }
-    /* .ham {
+    .ham {
         display: block;
         position: absolute;
         top:15px;
         right: 25px;
         transition:0.3s 0.1s;
-    } */
+    }
     /* hover es cuando pones el pulsor arriba, es para que rote*/
     .ham:hover{
         transform: rotate(360deg);
