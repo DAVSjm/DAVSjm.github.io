@@ -160,7 +160,7 @@ h6{
     grid-auto-flow: dense;
 }
 /* dispositivos moviles  para que no se mueva cuando esta en celular */
-@media (max-width: 250px){
+@media (max-width: 200px){
     body {
         overflow:hidden;
     }
